@@ -1,0 +1,21 @@
+{
+    "multisig": {
+        "keyA" : "keyA",
+        "keyB" : "keyB",
+        "keyC" : "keyC"
+    },
+    "smart_contract" : {
+        "oldContract": "",
+        "avmPath": "\\SmartContract\\SM.avm",
+        "name": "name",
+        "version": "version",
+        "author": "author",
+        "email": "email",
+        "description": "description"
+    },
+    "neo": {
+        "neo_scan": "",
+        "rpc_node": ""
+    }
+    
+}
